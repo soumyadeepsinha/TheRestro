@@ -2,9 +2,11 @@ const selectElement = function (element) {
   return document.querySelector(element);
 };
 
+// select the hamburger menu
 let menuToggler = selectElement('.menu_toggle');
 let body = selectElement('body');
 
+// toggle the navigation bar
 menuToggler.addEventListener('click', function () {
   body.classList.toggle('open');
 })
