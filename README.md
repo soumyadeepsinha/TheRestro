@@ -2,6 +2,8 @@
 
 > The Restro is an animated Restaurant Website
 
+[View Live](https://soumyadeepsinha.github.io/TheRestro/index.html)
+
 ### Agendas
 
 - [x] Create a index file for home page
