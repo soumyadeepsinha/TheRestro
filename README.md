@@ -10,6 +10,7 @@
 - [x] Create css file and also add a image folder
 - [x] Add google fonts
 - [x] Add font awesome
+- [x] Add Scroll Reveal javascript
 - [x] Create a Logo for Website
 - [x] Design the Navbar
   - [x] Add humburger menu icon
